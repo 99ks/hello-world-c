@@ -1,6 +1,6 @@
 # hello-world-c
 C program:-
-#include <stdio.h>
+hash include <stdio.h>
 int main()
 {
    printf("hello world");
